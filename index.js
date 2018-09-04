@@ -23,4 +23,11 @@ if flex in one container (width: 50%)
 if flex, flex-wrap: wrap 
 if float, float: left
 
+JS (event)
+event: keydown, on every time
+transition between backgrounds: 
+-transition between clicking
+-actually change the backgrounds
+first initials in the display 
+
 */
